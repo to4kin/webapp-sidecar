@@ -1,0 +1,13 @@
+### IntelliJ IDEA ###
+.idea
+.vscode
+*.iws
+*.iml
+*.ipr
+out/
+
+## Tests
+test/
+
+## Binary
+bin/
