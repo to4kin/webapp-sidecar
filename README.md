@@ -2,6 +2,8 @@
 
 Sidecar service on Go for webapp which expose some metrics in Prometheus format.
 
+[Docker Hub](https://github.com/to4kin/webapp-sidecar)
+
 ### Usage
 
 ```bash
