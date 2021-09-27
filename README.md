@@ -1,3 +1,4 @@
+[![integration](https://github.com/to4kin/webapp-sidecar/actions/workflows/integration.yml/badge.svg?branch=master)](https://github.com/to4kin/webapp-sidecar/actions/workflows/integration.yml)
 # WebApp Sidecar
 
 Sidecar service on Go for webapp which expose some metrics in Prometheus format.
