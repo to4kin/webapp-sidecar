@@ -1,15 +1,20 @@
 [![integration](https://github.com/to4kin/webapp-sidecar/actions/workflows/integration.yml/badge.svg?branch=master)](https://github.com/to4kin/webapp-sidecar/actions/workflows/integration.yml)
+[![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
+[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/to4kin/webapp-sidecar.svg)](https://github.com/to4kin/webapp-sidecar)
+[![GitHub release](https://img.shields.io/github/release/to4kin/webapp-sidecar.svg)](https://GitHub.com/to4kin/webapp-sidecar/releases/)
+
 # WebApp Sidecar
 
 Sidecar service on Go for webapp which expose some metrics in Prometheus format.
 
-[Docker Hub](https://github.com/to4kin/webapp-sidecar)
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/to4kin/webapp-sidecar)  
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://hub.docker.com/repository/docker/to4kin/webapp-sidecar)  
 
 ## Precondition
 
 * Go 1.17+
 
-### Usage Docker
+### Usage with Docker
 
 Default location for custom file metrics is `/upload`
 
