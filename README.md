@@ -5,6 +5,18 @@ Sidecar service on Go for webapp which expose some metrics in Prometheus format.
 
 [Docker Hub](https://github.com/to4kin/webapp-sidecar)
 
+## Precondition
+
+* Go 1.17+
+
+### Usage Docker
+
+Default location for custom file metrics is `/upload`
+
+```bash
+docker run -it --rm -p 3000:3000 -v `pwd`/upload:/upload --name webapp-sidecar to4kin/webapp-sidecar:latest
+```
+
 ### Usage
 
 ```bash
