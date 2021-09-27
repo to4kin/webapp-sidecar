@@ -11,3 +11,6 @@ test/
 
 ## Binary
 bin/
+
+## Custom
+upload/
