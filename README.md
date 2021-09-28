@@ -2,6 +2,7 @@
 [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
 [![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/to4kin/webapp-sidecar.svg)](https://github.com/to4kin/webapp-sidecar)
 [![GitHub release](https://img.shields.io/github/release/to4kin/webapp-sidecar.svg)](https://GitHub.com/to4kin/webapp-sidecar/releases/)
+[![codecov](https://codecov.io/gh/to4kin/webapp-sidecar/branch/master/graph/badge.svg?token=HOXKJSL6MM)](https://codecov.io/gh/to4kin/webapp-sidecar)
 
 # WebApp Sidecar
 
